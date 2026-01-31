@@ -1,0 +1,9 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+pymysql==1.1.0
+python-dotenv==1.0.1
+pydantic==2.5.3
+cryptography==42.0.2
+
+
+nextjs-boilerplate-5aq8
